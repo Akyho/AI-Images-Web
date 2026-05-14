@@ -6,9 +6,10 @@
 
 本项目为纯静态前端应用，构建后可直接部署在任何静态托管平台。
 
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/Akyho/AI-Images-Web"><img src="https://vercel.com/button" alt="Deploy with Vercel" style="border-radius:10px;height:28px" /></a>
-<a href="https://console.cloud.tencent.com/edgeone"><img src="https://img.shields.io/badge/Deploy-EdgeOne-0066FF?logo=tencentqq&style=for-the-badge" style="border-radius:10px" /></a>
-<a href="https://deploy.workers.cloudflare.com/?url=https://github.com/Akyho/AI-Images-Web"><img src="https://img.shields.io/badge/Deploy-Cloudflare-F38020?logo=cloudflare&style=for-the-badge" style="border-radius:10px" /></a>
+[Demo](https://ai-images-web.pages.dev/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Akyho/AI-Images-Web)
+[![Deploy with EdgeOne](https://img.shields.io/badge/Deploy-EdgeOne-0066FF?logo=tencentqq&style=for-the-badge)](https://console.cloud.tencent.com/edgeone)
+[![Deploy with Cloudflare](https://img.shields.io/badge/Deploy-Cloudflare-F38020?logo=cloudflare&style=for-the-badge)](https://deploy.workers.cloudflare.com/?url=https://github.com/Akyho/AI-Images-Web)
 
 ## 功能特性
 
